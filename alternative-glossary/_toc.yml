@@ -12,3 +12,6 @@ parts:
   chapters:
   - file: Artificial-Intelligence
   - file: PPIE
+- caption: Full List of Terms
+  chapters:
+  - file: index
