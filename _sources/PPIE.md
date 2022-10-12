@@ -1,4 +1,6 @@
 # Public and Patient Involvement and Engagement
+#### This section of the Glossary contains terms relating to Artificial Intelligence and Data Science.
+
 
 ```{glossary}
 
