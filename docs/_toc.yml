@@ -4,7 +4,11 @@
 
 format: jb-book
 root: homepage
-chapters:
-- file: about
-- file: Artificial-Intelligence
-- file: PPIE
+parts:
+- caption: Introduction
+  chapters:
+  - file: about
+- caption: Topic Glossaries
+  chapters:
+  - file: Artificial-Intelligence
+  - file: PPIE
