@@ -6,12 +6,12 @@ on:
     branches:
       - main
     paths:
-      - "docs/**"
+      - "alternative-glossary/**"
   pull_request:
     branches:
       - main
     paths:
-      - "docs/**"
+      - "alternative-glossary/**"
 
 jobs:
   docs-build:
@@ -30,13 +30,13 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -r docs/requirements.txt
       - name: Build JupyterBook
-        working-directory: ./docs
+        working-directory: ./alternative-glossary
         run: |
           jupyter-book build .
       - name: Check links with html proofer
         uses: chabad360/htmlproofer@master
         with:
-          directory: "./docs/_build/html"
+          directory: "./alternative-glossary/_build/html"
           arguments: --assume-extension --disable-external --only_4xx
         continue-on-error: true
 
@@ -45,4 +45,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3.8.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs/_build/html
+          publish_dir: ./alternative-glossary/_build/html
