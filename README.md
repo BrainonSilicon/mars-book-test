@@ -1,6 +1,3 @@
-
-[![Jupyter Book Badge](docs/images/badge.svg)](https://jupyterbook.org)
-
 # About Mars Book Test
 This repository is used to sandbox webistes built with jupyterbook for the puposes of user research, feature development, and for my own learning. The contents of this repo will be changed regularly based on the projects that I'm working on. Visit https://brainonsilicon.github.io/mars-book-test/ to view the current deployed site.
 
