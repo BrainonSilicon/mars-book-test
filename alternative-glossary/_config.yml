@@ -19,6 +19,12 @@ latex:
 bibtex_bibfiles:
   - references.bib
 
+# Set up the way in-line citations will display
+sphinx:
+  config:
+    bibtex_reference_style: author_year
+
+
 # Information about where the book exists on the web
 repository:
   url: https://brainonsilicon.github.io/mars-book-test/  # Online location of your book
