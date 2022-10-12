@@ -8,6 +8,7 @@ parts:
 - caption: Introduction
   chapters:
   - file: about
+  - file: contributing
 - caption: Topic Glossaries
   chapters:
   - file: Artificial-Intelligence
