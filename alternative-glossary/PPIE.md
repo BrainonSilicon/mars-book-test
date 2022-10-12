@@ -1,4 +1,4 @@
-# Glossary of Public and Patient Involvement and Engagement
+# Public and Patient Involvement and Engagement
 
 ```{glossary}
 
