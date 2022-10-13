@@ -8,4 +8,4 @@ The AIM RSF’s overarching ambition is to support and advocate for open, inclus
 
 This sentence is here to test referencing {cite}`perez2011python`.
 
-This is a third referencing check {cite}`HDRUK`. 
+This sentence is also here to test referencing {cite}`HDRUK2022ppie`.
