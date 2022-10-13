@@ -6,3 +6,8 @@ This file the here to capture the things that I learnt and explored during the p
 - the title of the section takes on the heading in the specific file and not the name of the file itself. 
   - therefore having clear naming conventions for files > heading
   - and also that the headings need to be short and focus on clarity
+
+### Using Index and Glossaries 
+- The only thing that is needed in your genindex.md file is an H1 title
+  - e.g. # My Index
+- To fix the index as first page issue I needed to name the index file as genindex.md
