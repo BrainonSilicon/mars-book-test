@@ -7,3 +7,5 @@ Hosted by The Alan Turing Institute in collaboration with the Swansea University
 The AIM RSF’s overarching ambition is to support and advocate for open, inclusive, and collaborative practice that delivers research ‘greater than the sum of its parts’, in order to maximise both the scientific impact and potential for patient benefit of research outputs.
 
 This sentence is here to test referencing {cite}`perez2011python`.
+
+This sentence is also here to test referencing {cite}`HDRUK2022ppie`.
