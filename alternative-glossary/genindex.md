@@ -1,1 +1,1 @@
-# My Index
+# All Glossary Terms
