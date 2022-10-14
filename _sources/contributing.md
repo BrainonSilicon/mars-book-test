@@ -4,9 +4,10 @@ Thank you for taking the time to contribute to the AIM Research Support Facility
 
 This document and the Contributing Guidelines as a whole is focused on supporting folks get started collaborating on the AIM-RSF glossary of terms. We know that the field of AI and Medicine is huge (and continually expanding) so we hope that this is an area that will be consistently updated as the AIM project grows. The Glossary's contents are being developed ****openly**** and we invites contributions from ****anyone**** who wants to support the work of the AI for Multiple Long-Term Conditions Project.
 
+
 ### What is a "Contributor"
 
-A contributor is anyone who suggests, creates, adds to, changes, updates, or reviews the material in this repository. Please refer to the [**Code of Conduct**](#code-of-conduct) section for information on what behaviours we expect of contributors.
+A contributor is anyone who suggests, creates, adds to, changes, updates, or reviews the material in this project. Please refer to the [**Code of Conduct**](#code-of-conduct) section for information on what behaviours we expect of contributors.
 
 A primary goal of our AI for Multiple Long Term Conditions Community is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion. This document outlines our expectations for all those who participagit statte in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in the AIM RSF Community to help us create safe and positive experiences for everyone.
 
@@ -147,7 +148,7 @@ https://www.contributor-covenant.org/translations.
 ---
 
 > [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-> The work in this repository is [licensed](https://github.com/aim-rsf/Getting-Started/blob/main/LICENSE.md) under the Creative Commons Attribution 4.0 International license for documentation and made public to our collaborators within the AIM consortium and the larger research community. You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use, and with no additional restrictions. Please note that this license does not extend to cover other materials or repositories in this organization unless directly specified. 
+> The work in this project is [licensed](https://github.com/aim-rsf/Getting-Started/blob/main/LICENSE.md) under the Creative Commons Attribution 4.0 International license for documentation and made public to our collaborators within the AIM consortium and the larger research community. You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use, and with no additional restrictions. Please note that this license does not extend to cover other materials or repositories in this organization unless directly specified. 
 
 
 For a more detailed contribution guideline, please check out *[The Turing Way's CONTRIBUTING.md file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)*.
