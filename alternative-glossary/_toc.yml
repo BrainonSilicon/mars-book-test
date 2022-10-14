@@ -9,11 +9,11 @@ parts:
   chapters:
   - file: about
   - file: contributing
+  - file: genindex
 - caption: Topic Glossaries
   chapters:
   - file: Artificial-Intelligence
-  - file: PPIE
+  - file: Public-Engagement
 - caption: Resources
   chapters:
   - file: references-list
-  - file: genindex
