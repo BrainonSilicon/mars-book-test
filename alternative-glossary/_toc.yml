@@ -12,9 +12,9 @@ parts:
   - file: genindex
 - caption: Topic Glossaries
   chapters:
-  - file: Artificial-Intelligence
-  - file: Public-Engagement
-  - file: Health
+  - file: terms/Artificial-Intelligence
+  - file: terms/Public-Engagement
+  - file: terms/Health
 - caption: Resources
   chapters:
   - file: references-list
